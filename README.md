@@ -1,6 +1,10 @@
 【API工具】Postwoman - 玩转API,男人行,女人更行
 ===========================================
 
+## Youtube视频讲解
+
+https://youtu.be/zFaZQsEZZF4
+
 ## 知识点
 
 * API调试工具Postwoman的使用
